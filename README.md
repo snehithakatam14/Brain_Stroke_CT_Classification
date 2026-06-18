@@ -16,7 +16,7 @@ Deep Learning-based Brain CT classification system with Explainable AI using Gra
 - ResNet18
 - Streamlit
 - Plotly
-- Grad-CAM
+- Grad-CAM++
 
 ## Run Locally
 
@@ -31,6 +31,3 @@ Please add your trained model as best_stroke_model.pth in the project root.
 
 
 
-Disclaimer:
-
-For academic purposes only.
