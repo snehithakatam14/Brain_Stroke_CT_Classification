@@ -1,6 +1,6 @@
 # AI-Based Stroke CT Analysis System
 
-Deep Learning-based Brain CT classification system with Explainable AI using Grad-CAM.
+Deep Learning-based Brain CT classification system with Explainable AI using Grad-CAM++.
 
 ## Features
 - Classifies CT scans into:
